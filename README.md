@@ -1,5 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroKleinDavila)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKleinDavila)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroKleinDavila&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKleinDavila&show_icons=true&theme=radical)
 
 
 <!---
