@@ -1,52 +1,63 @@
-# Olá! Eu sou o Pedro 👋
+# Hey, I'm Pedro 👋
 
-Desenvolvedor Fullstack e estudante de Ciência da Computação na PUCRS.
+Software Engineer focused on building scalable, high-performance systems with strong architectural foundations.
 
-Atuo no desenvolvimento de sistemas complexos com foco em arquitetura, performance e qualidade de código, sempre buscando construir soluções que resolvem problemas reais de negócio.
+Currently working on complex production systems, contributing across the full lifecycle — from domain modeling and system design to implementation, deployment, and production support.
 
-Tenho experiência trabalhando em projetos críticos em ambiente produtivo, participando desde a modelagem e implementação até a implantação e suporte direto aos usuários.
-
----
-
-## 🧠 Interesses
-
-- Arquitetura de software e organização de projetos
-- Modelagem de domínio e regras de negócio
-- Sistemas com alto volume de dados e requisitos de performance
-- Integrações entre serviços (APIs REST, mensageria, etc)
-- Automação e ferramentas que aumentam produtividade de times de desenvolvimento
+I enjoy solving real-world business problems through well-structured, reliable, and maintainable software.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Interests
 
-.NET • Angular • React • NestJS • Go  
-SQL / NoSQL • Docker • Git • Linux
-
----
-
-## 🚀 Experiência prática
-
-- Liderança técnica de pequenos times, auxiliando na organização do trabalho e decisões técnicas
-- Implementação e evolução de sistemas empresariais com alto impacto operacional
-- Participação ativa na definição de regras de negócio, escopo de funcionalidades e planejamento de entregas
-- Implantação de sistemas diretamente em ambiente cliente, incluindo suporte técnico e resolução de problemas em produção
-- Desenvolvimento e manutenção de sistemas que exigem confiabilidade, escalabilidade e performance
-- Entregas consistentes dentro de prazos definidos, mantendo foco em qualidade e estabilidade
+- Software architecture and system design
+- Domain modeling and complex business rules
+- High-performance and data-intensive systems
+- Distributed systems and service integrations (APIs, messaging)
+- Developer productivity and engineering metrics
 
 ---
 
-## 🔍 Projetos em destaque
+## 🛠️ Tech Stack
+
+**Backend:** .NET (main), Node.js, NestJS, Go  
+**Frontend:** Angular, React  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**DevOps:** Docker, CI/CD (GitHub Actions), self-hosted infrastructure  
+**Other:** Linux, system design, performance optimization
+
+---
+
+## 🚀 Experience
+
+- Technical leadership of small teams (task distribution, code reviews, technical decisions)
+- Design and evolution of high-impact production systems
+- Strong involvement in business rule definition and system architecture
+- Implementation of scalable solutions with focus on performance and reliability
+- Experience with batch processing, parallelism, and data-intensive workflows
+- Direct interaction with clients, including deployments and production support
+
+---
+
+## 🔍 Featured Project
 
 ### 📊 CodingStatistics
-Extensão para VSCode que coleta estatísticas de programação em tempo real e sincroniza com uma plataforma web.
 
-**Stack**
-- VS Code Extension API
+A VS Code extension that tracks real-time coding activity and syncs data with a web platform to generate productivity insights for developers and teams.
+
+**Highlights:**
+- Fullstack architecture (VS Code extension + backend + frontend)
+- Real-time data collection and processing
+- CI/CD pipelines and self-hosted infrastructure
+- Integrations with Stripe (payments) and email services
+- Ongoing development of AI-driven insights (LangChain)
+
+**Tech Stack:**
+- VS Code Extension API (TypeScript)
 - .NET backend
 - React frontend
 - PostgreSQL
 - Docker
 
-**Repositório:**  
+🔗 Repository:  
 https://github.com/PedroKleinDavila/statistics-extension
